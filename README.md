@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaiKrishna-KK
 - 👀 I’m interested in Python, AI & ML and Web Development
-- 🌱 I’m currently learning Flask
+- 🌱 I’m currently learning ML 
 - 📫 Reach me via E-Mail
 
 <!---
