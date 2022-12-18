@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on genetic algorithms.<br>👯 I’m looking to collaborate on developing any end to end deep learning project.<br>🌱 I’m currently learning PyTorch and Advanced Computer Vision.<br>💬 Ask me anything about Machine Learning, Neural Networks and Deep Learning.<br>
+🔭 I’m currently working on genetic algorithms.<br>🤝 I’m looking to collaborate on developing any end to end deep learning project.<br>🌱 I’m currently learning PyTorch and Advanced Computer Vision.<br>💬 Ask me anything about Machine Learning, Neural Networks and Deep Learning.<br>
 
 
 ## 🌐 Socials:
@@ -17,7 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SaiKrishna-KK&icon=0&color=0)](https://visitcount.itsvg.in)
