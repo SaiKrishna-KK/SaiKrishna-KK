@@ -1,11 +1,10 @@
 # 💫 About Me
 
-🔍 Passionate about building intelligent systems that bridge **human and machine intelligence** — from distributed note-sharing to medical imaging diagnostics.
-🔭 Currently exploring **Genetic Algorithms** and **evolutionary strategies** to push the boundaries of adaptive learning.
-🤝 Open to collaborating on **end-to-end Deep Learning systems**, especially those involving **LLMs, NLP pipelines, or cross-platform ML deployment**.
-🌱 Sharpening my expertise in **PyTorch**, **Advanced Computer Vision**, and **model interoperability across architectures** (M1, x86, ARM).
-🧠 Actively working on projects like **CRISP**, **DistNote**, and **AutoMind**, combining ML, distributed systems, and memory-enhanced APIs.
-💬 Let’s talk about **Neural Networks, Cognitive Architectures, Distributed Systems, or how AI can evolve with us**.
+🔭 I’m currently working on <strong>Genetic Algorithms</strong> and adaptive learning systems.<br>
+🤝 I’m looking to collaborate on developing any <strong>end-to-end Deep Learning project</strong>, especially those involving LLMs, NLP, or distributed architectures.<br>
+🌱 I’m currently learning <strong>PyTorch</strong>, <strong>Advanced Computer Vision</strong>, and <strong>cross-platform model deployment</strong> across M1, x86, and ARM.<br>
+💬 Ask me anything about <strong>Machine Learning</strong>, <strong>Neural Networks</strong>, <strong>Distributed Systems</strong>, or how AI can evolve to integrate with human intelligence.<br>
+
 
 
 ## 🌐 Socials:
