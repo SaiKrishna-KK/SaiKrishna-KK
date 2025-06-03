@@ -1,5 +1,11 @@
-# 💫 About Me:
-🔭 I’m currently working on genetic algorithms.<br>🤝 I’m looking to collaborate on developing any end to end deep learning project.<br>🌱 I’m currently learning PyTorch and Advanced Computer Vision.<br>💬 Ask me anything about Machine Learning, Neural Networks and Deep Learning.<br>
+# 💫 About Me
+
+🔍 Passionate about building intelligent systems that bridge **human and machine intelligence** — from distributed note-sharing to medical imaging diagnostics.
+🔭 Currently exploring **Genetic Algorithms** and **evolutionary strategies** to push the boundaries of adaptive learning.
+🤝 Open to collaborating on **end-to-end Deep Learning systems**, especially those involving **LLMs, NLP pipelines, or cross-platform ML deployment**.
+🌱 Sharpening my expertise in **PyTorch**, **Advanced Computer Vision**, and **model interoperability across architectures** (M1, x86, ARM).
+🧠 Actively working on projects like **CRISP**, **DistNote**, and **AutoMind**, combining ML, distributed systems, and memory-enhanced APIs.
+💬 Let’s talk about **Neural Networks, Cognitive Architectures, Distributed Systems, or how AI can evolve with us**.
 
 
 ## 🌐 Socials:
