@@ -1,9 +1,16 @@
 <!-- 💫 About Me -->
 <h3>💫 About Me:</h3>
-🔭 I’m currently working on <strong>Genetic Algorithms</strong> and adaptive learning systems.<br>
-🤝 I’m looking to collaborate on developing any <strong>end-to-end Deep Learning project</strong>, especially those involving LLMs, NLP, or distributed architectures.<br>
-🌱 I’m currently learning <strong>PyTorch</strong>, <strong>Advanced Computer Vision</strong>, and <strong>cross-platform model deployment</strong> across M1, x86, and ARM.<br>
-💬 Ask me anything about <strong>Machine Learning</strong>, <strong>Neural Networks</strong>, <strong>Distributed Systems</strong>, or how AI can evolve to integrate with human intelligence.<br>
+<p>🔭 I’m currently deepening my work in <strong>Genetic Algorithms</strong> and adaptive learning systems, exploring how evolving models can optimize themselves the way natural systems do.</p>
+
+<p>🎙️ I’m also passionate about <strong>Voice AI</strong> and real-time systems. I’ve built low-latency <strong>speech-to-text → LLM → text-to-speech</strong> pipelines, optimized concurrency paths, and shipped features that improved both performance and user retention.</p>
+
+<p>🛠️ I love building <strong>distributed, reliable backend systems</strong> — from high-throughput event pipelines to cloud-native microservices on AWS. Turning ambiguous problems into simple, well-designed systems is where I do my best work.</p>
+
+<p>🤝 I’m looking to collaborate on <strong>end-to-end deep learning or systems projects</strong>, especially those involving LLMs, NLP pipelines, real-time inference, or large-scale architecture.</p>
+
+<p>🌱 Currently expanding my work in <strong>PyTorch</strong>, <strong>advanced computer vision</strong>, and <strong>cross-platform model deployment</strong> across M1, x86, and ARM (including ONNX and compiled runtimes).</p>
+
+<p>💬 Ask me anything about <strong>machine learning</strong>, <strong>neural networks</strong>, <strong>distributed systems</strong>, or how AI can be engineered to behave more intelligently, more responsively, and more human-aligned.</p>
 
 ---
 
